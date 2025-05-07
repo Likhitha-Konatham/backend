@@ -73,7 +73,7 @@ pipeline {
             steps {
                 sshagent(['ec2-ssh']) {
                     sh """
-                        ssh -o StrictHostKeyChecking=no ${EC2_HOST} 'docker run -d -p 80:8000 --name ${DOCKER_IMAGE_NAME} ${DOCKER_IMAGE_NAME}:${DOCKER_TAG}'
+                        ssh -o StrictHostKeyChecking=no ${EC2_HOST} 'docker run -d -p 8000:8000 --name ${DOCKER_IMAGE_NAME} ${DOCKER_IMAGE_NAME}:${DOCKER_TAG}'
                     """
                 }
             }
