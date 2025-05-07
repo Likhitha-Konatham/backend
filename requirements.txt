@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+PyJWT
+pytz
+apscheduler
+python-dotenv
+python-multipart
+pydantic[email]
+pymongo
+motor
+passlib
+bcrypt
+boto3
+requests
+aiohttp

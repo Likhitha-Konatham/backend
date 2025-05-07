@@ -1,0 +1,4113 @@
+
+
+=== Request at 2025-04-18T12:32:48.862547 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.078s
+question_processed: 0.078s
+chatbot_response_received: 6.459s
+response_formatting_completed: 6.499s
+database_store_completed: 6.544s
+response_prepared: 6.544s
+Pre-TTS total time: 6.544s
+
+
+=== Request at 2025-04-18T12:33:15.414611 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.078s
+question_processed: 0.078s
+chatbot_response_received: 6.459s
+response_formatting_completed: 6.499s
+database_store_completed: 6.544s
+response_prepared: 6.544s
+tts_processing_completed: 33.096s
+Total time: 33.096s
+
+
+=== Request at 2025-04-18T12:41:58.590240 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.078s
+question_processed: 0.078s
+chatbot_response_received: 8.698s
+response_formatting_completed: 8.740s
+database_store_completed: 8.782s
+response_prepared: 8.782s
+Pre-TTS total time: 8.782s
+
+
+=== Request at 2025-04-18T12:42:30.824851 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.078s
+question_processed: 0.078s
+chatbot_response_received: 8.698s
+response_formatting_completed: 8.740s
+database_store_completed: 8.782s
+response_prepared: 8.782s
+tts_processing_completed: 41.017s
+Total time: 41.017s
+
+
+=== Request at 2025-04-18T12:42:55.865328 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.045s
+question_processed: 0.045s
+chatbot_response_received: 3.195s
+response_formatting_completed: 3.233s
+database_store_completed: 3.274s
+response_prepared: 3.274s
+Pre-TTS total time: 3.275s
+
+
+=== Request at 2025-04-18T12:43:07.986278 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.045s
+question_processed: 0.045s
+chatbot_response_received: 3.195s
+response_formatting_completed: 3.233s
+database_store_completed: 3.274s
+response_prepared: 3.274s
+tts_processing_completed: 15.395s
+Total time: 15.395s
+
+
+=== Request at 2025-04-18T13:13:53.279330 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.050s
+question_processed: 0.050s
+chatbot_response_received: 7.090s
+response_formatting_completed: 7.128s
+database_store_completed: 7.174s
+response_prepared: 7.174s
+Pre-TTS total time: 7.174s
+
+
+=== Request at 2025-04-18T13:14:21.747283 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.050s
+question_processed: 0.050s
+chatbot_response_received: 7.090s
+response_formatting_completed: 7.128s
+database_store_completed: 7.174s
+response_prepared: 7.174s
+tts_processing_completed: 35.642s
+Total time: 35.642s
+
+
+=== Request at 2025-04-18T14:21:48.518111 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.079s
+question_processed: 0.079s
+chatbot_response_received: 6.477s
+response_formatting_completed: 6.519s
+database_store_completed: 6.563s
+response_prepared: 6.563s
+Pre-TTS total time: 6.563s
+
+
+=== Request at 2025-04-18T14:22:13.253509 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.079s
+question_processed: 0.079s
+chatbot_response_received: 6.477s
+response_formatting_completed: 6.519s
+database_store_completed: 6.563s
+response_prepared: 6.563s
+tts_processing_completed: 31.298s
+Total time: 31.298s
+
+
+=== Request at 2025-04-18T14:33:51.930992 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 6.402s
+response_formatting_completed: 6.453s
+database_store_completed: 6.503s
+response_prepared: 6.503s
+Pre-TTS total time: 6.503s
+
+
+=== Request at 2025-04-18T14:34:17.148921 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 6.402s
+response_formatting_completed: 6.453s
+database_store_completed: 6.503s
+response_prepared: 6.503s
+tts_processing_completed: 31.721s
+Total time: 31.721s
+
+
+=== Request at 2025-04-18T15:26:32.621450 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.078s
+question_processed: 0.078s
+chatbot_response_received: 10.626s
+response_formatting_completed: 10.657s
+database_store_completed: 10.689s
+response_prepared: 10.690s
+Pre-TTS total time: 10.690s
+
+
+=== Request at 2025-04-18T15:27:14.527682 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.078s
+question_processed: 0.078s
+chatbot_response_received: 10.626s
+response_formatting_completed: 10.657s
+database_store_completed: 10.689s
+response_prepared: 10.690s
+tts_processing_completed: 52.596s
+Total time: 52.596s
+
+
+=== Request at 2025-04-18T15:28:13.362686 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.024s
+question_processed: 0.024s
+chatbot_response_received: 10.476s
+response_formatting_completed: 10.505s
+database_store_completed: 10.538s
+response_prepared: 10.538s
+Pre-TTS total time: 10.538s
+
+
+=== Request at 2025-04-18T15:28:53.990121 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.024s
+question_processed: 0.024s
+chatbot_response_received: 10.476s
+response_formatting_completed: 10.505s
+database_store_completed: 10.538s
+response_prepared: 10.538s
+tts_processing_completed: 51.165s
+Total time: 51.165s
+
+
+=== Request at 2025-04-18T15:30:30.328512 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.023s
+question_processed: 0.023s
+chatbot_response_received: 10.475s
+response_formatting_completed: 10.502s
+database_store_completed: 10.528s
+response_prepared: 10.528s
+Pre-TTS total time: 10.528s
+
+
+=== Request at 2025-04-18T15:31:08.392620 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.023s
+question_processed: 0.023s
+chatbot_response_received: 10.475s
+response_formatting_completed: 10.502s
+database_store_completed: 10.528s
+response_prepared: 10.528s
+tts_processing_completed: 48.592s
+Total time: 48.592s
+
+
+=== Request at 2025-04-18T15:33:23.954216 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 7.492s
+response_formatting_completed: 7.519s
+database_store_completed: 7.595s
+response_prepared: 7.595s
+Pre-TTS total time: 7.595s
+
+
+=== Request at 2025-04-18T15:33:48.140768 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 7.492s
+response_formatting_completed: 7.519s
+database_store_completed: 7.595s
+response_prepared: 7.595s
+tts_processing_completed: 31.781s
+Total time: 31.781s
+
+
+=== Request at 2025-04-18T15:35:18.454326 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.024s
+question_processed: 0.024s
+chatbot_response_received: 3.405s
+response_formatting_completed: 3.425s
+database_store_completed: 3.447s
+response_prepared: 3.447s
+Pre-TTS total time: 3.447s
+
+
+=== Request at 2025-04-18T15:35:29.721863 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.024s
+question_processed: 0.024s
+chatbot_response_received: 3.405s
+response_formatting_completed: 3.425s
+database_store_completed: 3.447s
+response_prepared: 3.447s
+tts_processing_completed: 14.715s
+Total time: 14.715s
+
+
+=== Request at 2025-04-18T15:36:24.376665 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.023s
+question_processed: 0.023s
+chatbot_response_received: 1.213s
+response_formatting_completed: 1.238s
+database_store_completed: 1.268s
+response_prepared: 1.268s
+Pre-TTS total time: 1.268s
+
+
+=== Request at 2025-04-18T15:36:26.839262 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.023s
+question_processed: 0.023s
+chatbot_response_received: 1.213s
+response_formatting_completed: 1.238s
+database_store_completed: 1.268s
+response_prepared: 1.268s
+tts_processing_completed: 3.731s
+Total time: 3.731s
+
+
+=== Request at 2025-04-18T15:37:12.122403 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.022s
+question_processed: 0.022s
+chatbot_response_received: 10.844s
+response_formatting_completed: 10.870s
+database_store_completed: 10.893s
+response_prepared: 10.893s
+Pre-TTS total time: 10.893s
+
+
+=== Request at 2025-04-18T15:38:00.295157 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.022s
+question_processed: 0.022s
+chatbot_response_received: 10.844s
+response_formatting_completed: 10.870s
+database_store_completed: 10.893s
+response_prepared: 10.893s
+tts_processing_completed: 59.066s
+Total time: 59.066s
+
+
+=== Request at 2025-04-18T15:40:28.922538 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.040s
+asr_completed: 3.752s
+question_processed: 3.752s
+chatbot_response_received: 14.546s
+response_formatting_completed: 14.571s
+database_store_completed: 14.599s
+response_prepared: 14.599s
+Pre-TTS total time: 14.599s
+
+
+=== Request at 2025-04-18T15:41:11.227449 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.040s
+asr_completed: 3.752s
+question_processed: 3.752s
+chatbot_response_received: 14.546s
+response_formatting_completed: 14.571s
+database_store_completed: 14.599s
+response_prepared: 14.599s
+tts_processing_completed: 56.904s
+Total time: 56.904s
+
+
+=== Request at 2025-04-18T15:43:10.752245 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.046s
+question_processed: 0.046s
+chatbot_response_received: 1.197s
+response_formatting_completed: 1.222s
+database_store_completed: 1.286s
+response_prepared: 1.286s
+Pre-TTS total time: 1.286s
+
+
+=== Request at 2025-04-18T15:43:13.156848 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.046s
+question_processed: 0.046s
+chatbot_response_received: 1.197s
+response_formatting_completed: 1.222s
+database_store_completed: 1.286s
+response_prepared: 1.286s
+tts_processing_completed: 3.690s
+Total time: 3.690s
+
+
+=== Request at 2025-04-18T15:46:14.096036 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.066s
+question_processed: 0.066s
+chatbot_response_received: 10.521s
+response_formatting_completed: 10.542s
+database_store_completed: 10.568s
+response_prepared: 10.568s
+Pre-TTS total time: 10.568s
+
+
+=== Request at 2025-04-18T15:46:54.334337 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.066s
+question_processed: 0.066s
+chatbot_response_received: 10.521s
+response_formatting_completed: 10.542s
+database_store_completed: 10.568s
+response_prepared: 10.568s
+tts_processing_completed: 50.806s
+Total time: 50.806s
+
+
+=== Request at 2025-04-18T15:48:08.423068 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 10.246s
+response_formatting_completed: 10.284s
+database_store_completed: 10.346s
+response_prepared: 10.346s
+Pre-TTS total time: 10.346s
+
+
+=== Request at 2025-04-18T15:48:44.955255 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 10.246s
+response_formatting_completed: 10.284s
+database_store_completed: 10.346s
+response_prepared: 10.346s
+tts_processing_completed: 46.878s
+Total time: 46.878s
+
+
+=== Request at 2025-04-18T15:49:26.244972 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 9.671s
+response_formatting_completed: 9.693s
+database_store_completed: 9.716s
+response_prepared: 9.717s
+Pre-TTS total time: 9.717s
+
+
+=== Request at 2025-04-18T15:50:01.757484 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 9.671s
+response_formatting_completed: 9.693s
+database_store_completed: 9.716s
+response_prepared: 9.717s
+tts_processing_completed: 45.229s
+Total time: 45.229s
+
+
+=== Request at 2025-04-18T15:50:48.257505 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.059s
+question_processed: 0.059s
+translation_to_english_completed: 0.588s
+chatbot_response_received: 5.718s
+translation_to_original_completed: 7.742s
+response_formatting_completed: 7.764s
+database_store_completed: 7.802s
+response_prepared: 7.802s
+Pre-TTS total time: 7.802s
+
+
+=== Request at 2025-04-18T15:51:09.988849 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.059s
+question_processed: 0.059s
+translation_to_english_completed: 0.588s
+chatbot_response_received: 5.718s
+translation_to_original_completed: 7.742s
+response_formatting_completed: 7.764s
+database_store_completed: 7.802s
+response_prepared: 7.802s
+tts_processing_completed: 29.534s
+Total time: 29.534s
+
+
+=== Request at 2025-04-18T15:51:39.687306 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.025s
+question_processed: 0.025s
+translation_to_english_completed: 0.411s
+chatbot_response_received: 1.915s
+translation_to_original_completed: 2.595s
+response_formatting_completed: 2.615s
+database_store_completed: 2.638s
+response_prepared: 2.639s
+Pre-TTS total time: 2.639s
+
+
+=== Request at 2025-04-18T15:51:45.453896 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.025s
+question_processed: 0.025s
+translation_to_english_completed: 0.411s
+chatbot_response_received: 1.915s
+translation_to_original_completed: 2.595s
+response_formatting_completed: 2.615s
+database_store_completed: 2.638s
+response_prepared: 2.639s
+tts_processing_completed: 8.405s
+Total time: 8.405s
+
+
+=== Request at 2025-04-18T15:52:33.614536 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.030s
+question_processed: 0.030s
+translation_to_english_completed: 0.380s
+chatbot_response_received: 6.956s
+translation_to_original_completed: 9.837s
+response_formatting_completed: 9.872s
+database_store_completed: 9.911s
+response_prepared: 9.911s
+Pre-TTS total time: 9.911s
+
+
+=== Request at 2025-04-18T15:53:12.371086 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+translation_to_english_completed: 0.378s
+chatbot_response_received: 5.456s
+translation_to_original_completed: 7.596s
+response_formatting_completed: 7.622s
+database_store_completed: 7.648s
+response_prepared: 7.648s
+Pre-TTS total time: 7.649s
+
+
+=== Request at 2025-04-18T15:53:38.348119 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.021s
+question_processed: 0.021s
+translation_to_english_completed: 0.378s
+chatbot_response_received: 5.456s
+translation_to_original_completed: 7.596s
+response_formatting_completed: 7.622s
+database_store_completed: 7.648s
+response_prepared: 7.648s
+tts_processing_completed: 33.625s
+Total time: 33.625s
+
+
+=== Request at 2025-04-18T15:54:26.938079 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.041s
+question_processed: 0.041s
+chatbot_response_received: 4.533s
+response_formatting_completed: 4.553s
+database_store_completed: 4.577s
+response_prepared: 4.577s
+Pre-TTS total time: 4.577s
+
+
+=== Request at 2025-04-18T15:54:42.952018 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.041s
+question_processed: 0.041s
+chatbot_response_received: 4.533s
+response_formatting_completed: 4.553s
+database_store_completed: 4.577s
+response_prepared: 4.577s
+tts_processing_completed: 20.591s
+Total time: 20.591s
+
+
+=== Request at 2025-04-18T15:56:19.079541 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 3.131s
+response_formatting_completed: 3.153s
+database_store_completed: 3.213s
+response_prepared: 3.213s
+Pre-TTS total time: 3.213s
+
+
+=== Request at 2025-04-18T15:56:32.246509 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 3.131s
+response_formatting_completed: 3.153s
+database_store_completed: 3.213s
+response_prepared: 3.213s
+tts_processing_completed: 16.380s
+Total time: 16.380s
+
+
+=== Request at 2025-04-18T15:57:31.665522 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.033s
+question_processed: 0.033s
+translation_to_english_completed: 0.447s
+chatbot_response_received: 5.137s
+translation_to_original_completed: 7.155s
+response_formatting_completed: 7.179s
+database_store_completed: 7.207s
+response_prepared: 7.207s
+Pre-TTS total time: 7.208s
+
+
+=== Request at 2025-04-18T15:57:55.876997 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.033s
+question_processed: 0.033s
+translation_to_english_completed: 0.447s
+chatbot_response_received: 5.137s
+translation_to_original_completed: 7.155s
+response_formatting_completed: 7.179s
+database_store_completed: 7.207s
+response_prepared: 7.207s
+tts_processing_completed: 31.419s
+Total time: 31.419s
+
+
+=== Request at 2025-04-18T15:58:42.801088 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.053s
+question_processed: 0.053s
+chatbot_response_received: 6.098s
+response_formatting_completed: 6.123s
+database_store_completed: 6.187s
+response_prepared: 6.187s
+Pre-TTS total time: 6.187s
+
+
+=== Request at 2025-04-18T15:59:08.279198 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.053s
+question_processed: 0.053s
+chatbot_response_received: 6.098s
+response_formatting_completed: 6.123s
+database_store_completed: 6.187s
+response_prepared: 6.187s
+tts_processing_completed: 31.665s
+Total time: 31.665s
+
+
+=== Request at 2025-04-19T03:18:31.489493 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.313s
+question_processed: 0.313s
+chatbot_response_received: 4.098s
+response_formatting_completed: 4.484s
+database_store_completed: 4.536s
+response_prepared: 4.536s
+Pre-TTS total time: 4.536s
+
+
+=== Request at 2025-04-19T03:18:46.184682 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.313s
+question_processed: 0.313s
+chatbot_response_received: 4.098s
+response_formatting_completed: 4.484s
+database_store_completed: 4.536s
+response_prepared: 4.536s
+tts_processing_completed: 19.231s
+Total time: 19.231s
+
+
+=== Request at 2025-04-19T03:22:12.549342 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.041s
+question_processed: 0.041s
+chatbot_response_received: 7.952s
+response_formatting_completed: 7.991s
+database_store_completed: 8.033s
+response_prepared: 8.033s
+Pre-TTS total time: 8.033s
+
+
+=== Request at 2025-04-19T03:22:44.390059 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.041s
+question_processed: 0.041s
+chatbot_response_received: 7.952s
+response_formatting_completed: 7.991s
+database_store_completed: 8.033s
+response_prepared: 8.033s
+tts_processing_completed: 39.874s
+Total time: 39.874s
+
+
+=== Request at 2025-04-19T03:22:58.607820 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.041s
+question_processed: 0.041s
+chatbot_response_received: 3.534s
+response_formatting_completed: 3.573s
+database_store_completed: 3.614s
+response_prepared: 3.614s
+Pre-TTS total time: 3.614s
+
+
+=== Request at 2025-04-19T03:23:14.475234 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.041s
+question_processed: 0.041s
+chatbot_response_received: 3.534s
+response_formatting_completed: 3.573s
+database_store_completed: 3.614s
+response_prepared: 3.614s
+tts_processing_completed: 19.481s
+Total time: 19.481s
+
+
+=== Request at 2025-04-19T03:38:53.595906 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.052s
+question_processed: 0.052s
+chatbot_response_received: 9.345s
+response_formatting_completed: 9.360s
+database_store_completed: 9.377s
+response_prepared: 9.377s
+Pre-TTS total time: 9.377s
+
+
+=== Request at 2025-04-19T03:39:38.995017 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.052s
+question_processed: 0.052s
+chatbot_response_received: 9.345s
+response_formatting_completed: 9.360s
+database_store_completed: 9.377s
+response_prepared: 9.377s
+tts_processing_completed: 54.776s
+Total time: 54.776s
+
+
+=== Request at 2025-04-19T03:43:08.858400 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.068s
+question_processed: 0.068s
+chatbot_response_received: 3.863s
+response_formatting_completed: 3.881s
+database_store_completed: 3.900s
+response_prepared: 3.900s
+Pre-TTS total time: 3.900s
+
+
+=== Request at 2025-04-19T03:43:27.679093 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.068s
+question_processed: 0.068s
+chatbot_response_received: 3.863s
+response_formatting_completed: 3.881s
+database_store_completed: 3.900s
+response_prepared: 3.900s
+tts_processing_completed: 22.721s
+Total time: 22.721s
+
+
+=== Request at 2025-04-19T03:51:53.693089 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.053s
+question_processed: 0.053s
+chatbot_response_received: 6.302s
+response_formatting_completed: 6.317s
+database_store_completed: 6.334s
+response_prepared: 6.334s
+Pre-TTS total time: 6.334s
+
+
+=== Request at 2025-04-19T03:52:26.578864 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.053s
+question_processed: 0.053s
+chatbot_response_received: 6.302s
+response_formatting_completed: 6.317s
+database_store_completed: 6.334s
+response_prepared: 6.334s
+tts_processing_completed: 39.220s
+Total time: 39.220s
+
+
+=== Request at 2025-04-19T03:52:45.396723 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.017s
+question_processed: 0.017s
+chatbot_response_received: 7.255s
+response_formatting_completed: 7.270s
+database_store_completed: 7.287s
+response_prepared: 7.287s
+Pre-TTS total time: 7.287s
+
+
+=== Request at 2025-04-19T03:53:11.617286 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.017s
+question_processed: 0.017s
+chatbot_response_received: 7.255s
+response_formatting_completed: 7.270s
+database_store_completed: 7.287s
+response_prepared: 7.287s
+tts_processing_completed: 33.508s
+Total time: 33.508s
+
+
+=== Request at 2025-04-19T04:00:03.053446 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.059s
+question_processed: 0.059s
+chatbot_response_received: 10.572s
+response_formatting_completed: 10.592s
+database_store_completed: 10.615s
+response_prepared: 10.615s
+Pre-TTS total time: 10.615s
+
+
+=== Request at 2025-04-19T04:00:45.651589 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.059s
+question_processed: 0.059s
+chatbot_response_received: 10.572s
+response_formatting_completed: 10.592s
+database_store_completed: 10.615s
+response_prepared: 10.615s
+tts_processing_completed: 53.213s
+Total time: 53.213s
+
+
+=== Request at 2025-04-19T04:04:02.623641 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.222s
+question_processed: 0.222s
+chatbot_response_received: 6.552s
+response_formatting_completed: 6.572s
+database_store_completed: 6.594s
+response_prepared: 6.594s
+Pre-TTS total time: 6.595s
+
+
+=== Request at 2025-04-19T04:04:27.300070 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.222s
+question_processed: 0.222s
+chatbot_response_received: 6.552s
+response_formatting_completed: 6.572s
+database_store_completed: 6.594s
+response_prepared: 6.594s
+tts_processing_completed: 31.271s
+Total time: 31.271s
+
+
+=== Request at 2025-04-19T04:04:55.397877 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.016s
+question_processed: 0.016s
+chatbot_response_received: 22.352s
+response_formatting_completed: 22.367s
+database_store_completed: 22.384s
+response_prepared: 22.384s
+Pre-TTS total time: 22.384s
+
+
+=== Request at 2025-04-19T04:04:57.046830 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.022s
+question_processed: 0.022s
+chatbot_response_received: 26.960s
+response_formatting_completed: 26.974s
+database_store_completed: 26.992s
+response_prepared: 26.992s
+Pre-TTS total time: 26.992s
+
+
+=== Request at 2025-04-19T04:04:57.063549 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.017s
+question_processed: 0.017s
+chatbot_response_received: 25.347s
+response_formatting_completed: 25.367s
+database_store_completed: 25.391s
+response_prepared: 25.391s
+Pre-TTS total time: 25.391s
+
+
+=== Request at 2025-04-19T04:05:23.992455 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.016s
+question_processed: 0.016s
+chatbot_response_received: 22.352s
+response_formatting_completed: 22.367s
+database_store_completed: 22.384s
+response_prepared: 22.384s
+tts_processing_completed: 50.979s
+Total time: 50.979s
+
+
+=== Request at 2025-04-19T04:06:02.368840 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.022s
+question_processed: 0.022s
+chatbot_response_received: 26.960s
+response_formatting_completed: 26.974s
+database_store_completed: 26.992s
+response_prepared: 26.992s
+tts_processing_completed: 92.314s
+Total time: 92.314s
+
+
+=== Request at 2025-04-19T04:06:27.318361 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.017s
+question_processed: 0.017s
+chatbot_response_received: 25.347s
+response_formatting_completed: 25.367s
+database_store_completed: 25.391s
+response_prepared: 25.391s
+tts_processing_completed: 115.646s
+Total time: 115.646s
+
+
+=== Request at 2025-04-19T04:08:47.293864 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.060s
+question_processed: 0.060s
+chatbot_response_received: 9.142s
+response_formatting_completed: 9.162s
+database_store_completed: 9.186s
+response_prepared: 9.186s
+Pre-TTS total time: 9.186s
+
+
+=== Request at 2025-04-19T04:09:22.940296 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.060s
+question_processed: 0.060s
+chatbot_response_received: 9.142s
+response_formatting_completed: 9.162s
+database_store_completed: 9.186s
+response_prepared: 9.186s
+tts_processing_completed: 44.832s
+Total time: 44.832s
+
+
+=== Request at 2025-04-19T04:11:15.987954 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.066s
+question_processed: 0.066s
+chatbot_response_received: 5.391s
+response_formatting_completed: 5.412s
+database_store_completed: 5.434s
+response_prepared: 5.434s
+Pre-TTS total time: 5.434s
+
+
+=== Request at 2025-04-19T04:11:37.906839 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.066s
+question_processed: 0.066s
+chatbot_response_received: 5.391s
+response_formatting_completed: 5.412s
+database_store_completed: 5.434s
+response_prepared: 5.434s
+tts_processing_completed: 27.353s
+Total time: 27.353s
+
+
+=== Request at 2025-04-19T04:12:41.103661 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.020s
+question_processed: 0.020s
+translation_to_english_completed: 0.808s
+chatbot_response_received: 7.818s
+translation_to_original_completed: 10.605s
+response_formatting_completed: 10.625s
+database_store_completed: 10.650s
+response_prepared: 10.650s
+Pre-TTS total time: 10.650s
+
+
+=== Request at 2025-04-19T04:13:11.253806 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.020s
+question_processed: 0.020s
+translation_to_english_completed: 0.808s
+chatbot_response_received: 7.818s
+translation_to_original_completed: 10.605s
+response_formatting_completed: 10.625s
+database_store_completed: 10.650s
+response_prepared: 10.650s
+tts_processing_completed: 40.800s
+Total time: 40.800s
+
+
+=== Request at 2025-04-19T06:38:56.398572 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.026s
+question_processed: 0.026s
+chatbot_response_received: 7.947s
+response_formatting_completed: 7.970s
+database_store_completed: 7.995s
+response_prepared: 7.995s
+Pre-TTS total time: 7.995s
+
+
+=== Request at 2025-04-19T06:39:25.176639 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.026s
+question_processed: 0.026s
+chatbot_response_received: 7.947s
+response_formatting_completed: 7.970s
+database_store_completed: 7.995s
+response_prepared: 7.995s
+tts_processing_completed: 36.773s
+Total time: 36.773s
+
+
+=== Request at 2025-04-19T10:24:24.827050 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.065s
+question_processed: 0.065s
+chatbot_response_received: 10.615s
+response_formatting_completed: 10.644s
+database_store_completed: 10.678s
+response_prepared: 10.678s
+Pre-TTS total time: 10.679s
+
+
+=== Request at 2025-04-19T10:24:44.533423 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.065s
+question_processed: 0.065s
+chatbot_response_received: 10.615s
+response_formatting_completed: 10.644s
+database_store_completed: 10.678s
+response_prepared: 10.678s
+tts_processing_completed: 30.385s
+Total time: 30.385s
+
+
+=== Request at 2025-04-19T10:26:21.530989 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+translation_to_english_completed: 0.447s
+chatbot_response_received: 7.438s
+translation_to_original_completed: 10.666s
+response_formatting_completed: 10.689s
+database_store_completed: 10.715s
+response_prepared: 10.715s
+Pre-TTS total time: 10.715s
+
+
+=== Request at 2025-04-19T10:26:50.431819 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+translation_to_english_completed: 0.447s
+chatbot_response_received: 7.438s
+translation_to_original_completed: 10.666s
+response_formatting_completed: 10.689s
+database_store_completed: 10.715s
+response_prepared: 10.715s
+tts_processing_completed: 39.615s
+Total time: 39.615s
+
+
+=== Request at 2025-04-19T10:27:21.735590 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.038s
+question_processed: 0.038s
+translation_to_english_completed: 0.487s
+chatbot_response_received: 4.316s
+translation_to_original_completed: 6.251s
+response_formatting_completed: 6.274s
+database_store_completed: 6.303s
+response_prepared: 6.303s
+Pre-TTS total time: 6.304s
+
+
+=== Request at 2025-04-19T10:27:41.092556 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.038s
+question_processed: 0.038s
+translation_to_english_completed: 0.487s
+chatbot_response_received: 4.316s
+translation_to_original_completed: 6.251s
+response_formatting_completed: 6.274s
+database_store_completed: 6.303s
+response_prepared: 6.303s
+tts_processing_completed: 25.660s
+Total time: 25.660s
+
+
+=== Request at 2025-04-19T10:28:26.902116 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.065s
+question_processed: 0.065s
+chatbot_response_received: 3.852s
+response_formatting_completed: 3.880s
+database_store_completed: 3.910s
+response_prepared: 3.910s
+Pre-TTS total time: 3.910s
+
+
+=== Request at 2025-04-19T10:28:40.272042 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.065s
+question_processed: 0.065s
+chatbot_response_received: 3.852s
+response_formatting_completed: 3.880s
+database_store_completed: 3.910s
+response_prepared: 3.910s
+tts_processing_completed: 17.280s
+Total time: 17.280s
+
+
+=== Request at 2025-04-19T10:37:00.040000 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.074s
+question_processed: 0.074s
+chatbot_response_received: 8.635s
+response_formatting_completed: 8.676s
+database_store_completed: 8.716s
+response_prepared: 8.716s
+Pre-TTS total time: 8.716s
+
+
+=== Request at 2025-04-19T10:37:33.726384 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.074s
+question_processed: 0.074s
+chatbot_response_received: 8.635s
+response_formatting_completed: 8.676s
+database_store_completed: 8.716s
+response_prepared: 8.716s
+tts_processing_completed: 42.402s
+Total time: 42.402s
+
+
+=== Request at 2025-04-19T10:46:56.340259 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.068s
+question_processed: 0.068s
+translation_to_english_completed: 0.570s
+chatbot_response_received: 6.611s
+translation_to_original_completed: 9.628s
+response_formatting_completed: 9.667s
+database_store_completed: 9.705s
+response_prepared: 9.705s
+Pre-TTS total time: 9.705s
+
+
+=== Request at 2025-04-19T10:47:22.494089 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.068s
+question_processed: 0.068s
+translation_to_english_completed: 0.570s
+chatbot_response_received: 6.611s
+translation_to_original_completed: 9.628s
+response_formatting_completed: 9.667s
+database_store_completed: 9.705s
+response_prepared: 9.705s
+tts_processing_completed: 35.859s
+Total time: 35.859s
+
+
+=== Request at 2025-04-19T11:00:04.558527 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.070s
+question_processed: 0.070s
+chatbot_response_received: 6.723s
+response_formatting_completed: 6.749s
+database_store_completed: 6.779s
+response_prepared: 6.779s
+Pre-TTS total time: 6.780s
+
+
+=== Request at 2025-04-19T11:00:32.739526 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.070s
+question_processed: 0.070s
+chatbot_response_received: 6.723s
+response_formatting_completed: 6.749s
+database_store_completed: 6.779s
+response_prepared: 6.779s
+tts_processing_completed: 34.960s
+Total time: 34.960s
+
+
+=== Request at 2025-04-19T11:06:13.729199 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.074s
+question_processed: 0.074s
+chatbot_response_received: 11.133s
+response_formatting_completed: 11.165s
+database_store_completed: 11.198s
+response_prepared: 11.198s
+Pre-TTS total time: 11.198s
+
+
+=== Request at 2025-04-19T11:06:33.461446 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.074s
+question_processed: 0.074s
+chatbot_response_received: 11.133s
+response_formatting_completed: 11.165s
+database_store_completed: 11.198s
+response_prepared: 11.198s
+tts_processing_completed: 30.930s
+Total time: 30.930s
+
+
+=== Request at 2025-04-19T11:09:43.505340 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.017s
+question_processed: 0.017s
+chatbot_response_received: 4.852s
+response_formatting_completed: 4.887s
+database_store_completed: 4.922s
+response_prepared: 4.922s
+Pre-TTS total time: 4.922s
+
+
+=== Request at 2025-04-19T11:10:03.784291 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.017s
+question_processed: 0.017s
+chatbot_response_received: 4.852s
+response_formatting_completed: 4.887s
+database_store_completed: 4.922s
+response_prepared: 4.922s
+tts_processing_completed: 25.201s
+Total time: 25.201s
+
+
+=== Request at 2025-04-19T11:10:11.638947 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 10.574s
+response_formatting_completed: 10.600s
+database_store_completed: 10.628s
+response_prepared: 10.628s
+Pre-TTS total time: 10.629s
+
+
+=== Request at 2025-04-19T11:10:27.287423 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 10.574s
+response_formatting_completed: 10.600s
+database_store_completed: 10.628s
+response_prepared: 10.628s
+tts_processing_completed: 26.277s
+Total time: 26.277s
+
+
+=== Request at 2025-04-19T11:11:37.880559 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 3.049s
+response_formatting_completed: 3.078s
+database_store_completed: 3.144s
+response_prepared: 3.144s
+Pre-TTS total time: 3.144s
+
+
+=== Request at 2025-04-19T11:11:49.497458 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 3.049s
+response_formatting_completed: 3.078s
+database_store_completed: 3.144s
+response_prepared: 3.144s
+tts_processing_completed: 14.761s
+Total time: 14.761s
+
+
+=== Request at 2025-04-19T11:13:54.882414 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 10.255s
+response_formatting_completed: 10.285s
+database_store_completed: 10.353s
+response_prepared: 10.353s
+Pre-TTS total time: 10.353s
+
+
+=== Request at 2025-04-19T11:14:33.674073 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 10.255s
+response_formatting_completed: 10.285s
+database_store_completed: 10.353s
+response_prepared: 10.353s
+tts_processing_completed: 49.145s
+Total time: 49.145s
+
+
+=== Request at 2025-04-19T11:14:53.210295 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 8.165s
+response_formatting_completed: 8.212s
+database_store_completed: 8.272s
+response_prepared: 8.272s
+Pre-TTS total time: 8.272s
+
+
+=== Request at 2025-04-19T11:15:22.380862 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 8.165s
+response_formatting_completed: 8.212s
+database_store_completed: 8.272s
+response_prepared: 8.272s
+tts_processing_completed: 37.443s
+Total time: 37.443s
+
+
+=== Request at 2025-04-19T11:17:13.612498 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 0.059s
+response_formatting_completed: 0.088s
+database_store_completed: 0.152s
+response_prepared: 0.152s
+Pre-TTS total time: 0.152s
+
+
+=== Request at 2025-04-19T11:17:15.792070 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 0.059s
+response_formatting_completed: 0.088s
+database_store_completed: 0.152s
+response_prepared: 0.152s
+tts_processing_completed: 2.332s
+Total time: 2.332s
+
+
+=== Request at 2025-04-19T11:17:34.554281 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.031s
+question_processed: 0.031s
+translation_to_english_completed: 0.555s
+chatbot_response_received: 7.670s
+translation_to_original_completed: 10.762s
+response_formatting_completed: 10.781s
+database_store_completed: 10.809s
+response_prepared: 10.809s
+Pre-TTS total time: 10.809s
+
+
+=== Request at 2025-04-19T11:18:04.615933 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.031s
+question_processed: 0.031s
+translation_to_english_completed: 0.555s
+chatbot_response_received: 7.670s
+translation_to_original_completed: 10.762s
+response_formatting_completed: 10.781s
+database_store_completed: 10.809s
+response_prepared: 10.809s
+tts_processing_completed: 40.870s
+Total time: 40.870s
+
+
+=== Request at 2025-04-19T11:20:01.694379 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.059s
+question_processed: 0.059s
+translation_to_english_completed: 0.604s
+chatbot_response_received: 6.948s
+translation_to_original_completed: 9.700s
+response_formatting_completed: 9.730s
+database_store_completed: 9.760s
+response_prepared: 9.760s
+Pre-TTS total time: 9.760s
+
+
+=== Request at 2025-04-19T11:22:02.642575 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.039s
+question_processed: 0.039s
+translation_to_english_completed: 2.036s
+chatbot_response_received: 12.335s
+translation_to_original_completed: 29.560s
+response_formatting_completed: 29.585s
+database_store_completed: 29.614s
+response_prepared: 29.614s
+Pre-TTS total time: 29.614s
+
+
+=== Request at 2025-04-19T11:22:42.655620 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.039s
+question_processed: 0.039s
+translation_to_english_completed: 2.036s
+chatbot_response_received: 12.335s
+translation_to_original_completed: 29.560s
+response_formatting_completed: 29.585s
+database_store_completed: 29.614s
+response_prepared: 29.614s
+tts_processing_completed: 69.627s
+Total time: 69.627s
+
+
+=== Request at 2025-04-19T11:24:40.146748 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.037s
+question_processed: 0.037s
+chatbot_response_received: 10.730s
+response_formatting_completed: 10.761s
+database_store_completed: 10.833s
+response_prepared: 10.833s
+Pre-TTS total time: 10.833s
+
+
+=== Request at 2025-04-19T11:25:05.202029 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 10.710s
+response_formatting_completed: 10.742s
+database_store_completed: 10.778s
+response_prepared: 10.778s
+Pre-TTS total time: 10.778s
+
+
+=== Request at 2025-04-19T11:25:13.460444 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.037s
+question_processed: 0.037s
+chatbot_response_received: 10.730s
+response_formatting_completed: 10.761s
+database_store_completed: 10.833s
+response_prepared: 10.833s
+tts_processing_completed: 44.147s
+Total time: 44.147s
+
+
+=== Request at 2025-04-19T11:25:26.294846 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 10.628s
+response_formatting_completed: 10.663s
+database_store_completed: 10.701s
+response_prepared: 10.701s
+Pre-TTS total time: 10.701s
+
+
+=== Request at 2025-04-19T11:25:32.099411 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 10.710s
+response_formatting_completed: 10.742s
+database_store_completed: 10.778s
+response_prepared: 10.778s
+tts_processing_completed: 37.675s
+Total time: 37.675s
+
+
+=== Request at 2025-04-19T11:25:57.863404 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 10.628s
+response_formatting_completed: 10.663s
+database_store_completed: 10.701s
+response_prepared: 10.701s
+tts_processing_completed: 42.269s
+Total time: 42.269s
+
+
+=== Request at 2025-04-19T11:26:40.001317 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+translation_to_english_completed: 0.386s
+chatbot_response_received: 7.440s
+translation_to_original_completed: 7.934s
+response_formatting_completed: 7.955s
+database_store_completed: 7.981s
+response_prepared: 7.981s
+Pre-TTS total time: 7.981s
+
+
+=== Request at 2025-04-19T11:27:04.052266 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+translation_to_english_completed: 0.386s
+chatbot_response_received: 7.440s
+translation_to_original_completed: 7.934s
+response_formatting_completed: 7.955s
+database_store_completed: 7.981s
+response_prepared: 7.981s
+tts_processing_completed: 32.032s
+Total time: 32.032s
+
+
+=== Request at 2025-04-19T11:39:56.082767 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 4.076s
+response_formatting_completed: 4.109s
+database_store_completed: 4.140s
+response_prepared: 4.140s
+Pre-TTS total time: 4.140s
+
+
+=== Request at 2025-04-19T11:40:08.333625 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 4.076s
+response_formatting_completed: 4.109s
+database_store_completed: 4.140s
+response_prepared: 4.140s
+tts_processing_completed: 16.391s
+Total time: 16.391s
+
+
+=== Request at 2025-04-19T11:44:53.388895 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 8.093s
+response_formatting_completed: 8.125s
+database_store_completed: 8.161s
+response_prepared: 8.161s
+Pre-TTS total time: 8.161s
+
+
+=== Request at 2025-04-19T11:45:18.039971 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 8.093s
+response_formatting_completed: 8.125s
+database_store_completed: 8.161s
+response_prepared: 8.161s
+tts_processing_completed: 32.812s
+Total time: 32.812s
+
+
+=== Request at 2025-04-19T11:45:25.100814 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.278s
+question_processed: 0.278s
+chatbot_response_received: 5.779s
+response_formatting_completed: 5.802s
+database_store_completed: 5.828s
+response_prepared: 5.828s
+Pre-TTS total time: 5.828s
+
+
+=== Request at 2025-04-19T11:45:42.293823 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.278s
+question_processed: 0.278s
+chatbot_response_received: 5.779s
+response_formatting_completed: 5.802s
+database_store_completed: 5.828s
+response_prepared: 5.828s
+tts_processing_completed: 23.021s
+Total time: 23.021s
+
+
+=== Request at 2025-04-19T11:45:57.078122 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 4.306s
+response_formatting_completed: 4.351s
+database_store_completed: 4.391s
+response_prepared: 4.391s
+Pre-TTS total time: 4.391s
+
+
+=== Request at 2025-04-19T11:46:09.742077 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 4.306s
+response_formatting_completed: 4.351s
+database_store_completed: 4.391s
+response_prepared: 4.391s
+tts_processing_completed: 17.055s
+Total time: 17.055s
+
+
+=== Request at 2025-04-19T11:51:12.862426 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.025s
+question_processed: 0.025s
+chatbot_response_received: 4.009s
+response_formatting_completed: 4.031s
+database_store_completed: 4.057s
+response_prepared: 4.057s
+Pre-TTS total time: 4.057s
+
+
+=== Request at 2025-04-19T11:51:24.155064 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.025s
+question_processed: 0.025s
+chatbot_response_received: 4.009s
+response_formatting_completed: 4.031s
+database_store_completed: 4.057s
+response_prepared: 4.057s
+tts_processing_completed: 15.350s
+Total time: 15.350s
+
+
+=== Request at 2025-04-19T11:56:00.938810 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.037s
+question_processed: 0.037s
+chatbot_response_received: 8.286s
+response_formatting_completed: 8.321s
+database_store_completed: 8.360s
+response_prepared: 8.360s
+Pre-TTS total time: 8.361s
+
+
+=== Request at 2025-04-19T11:56:23.068437 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.037s
+question_processed: 0.037s
+chatbot_response_received: 8.286s
+response_formatting_completed: 8.321s
+database_store_completed: 8.360s
+response_prepared: 8.360s
+tts_processing_completed: 30.490s
+Total time: 30.490s
+
+
+=== Request at 2025-04-19T11:58:59.747958 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 5.492s
+response_formatting_completed: 5.518s
+database_store_completed: 5.545s
+response_prepared: 5.545s
+Pre-TTS total time: 5.545s
+
+
+=== Request at 2025-04-19T11:59:15.140615 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 5.492s
+response_formatting_completed: 5.518s
+database_store_completed: 5.545s
+response_prepared: 5.545s
+tts_processing_completed: 20.937s
+Total time: 20.937s
+
+
+=== Request at 2025-04-19T12:03:32.594091 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 10.816s
+response_formatting_completed: 10.848s
+database_store_completed: 10.881s
+response_prepared: 10.881s
+Pre-TTS total time: 10.882s
+
+
+=== Request at 2025-04-19T12:03:51.557941 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 10.816s
+response_formatting_completed: 10.848s
+database_store_completed: 10.881s
+response_prepared: 10.881s
+tts_processing_completed: 29.845s
+Total time: 29.845s
+
+
+=== Request at 2025-04-19T12:04:20.011728 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 10.560s
+response_formatting_completed: 10.593s
+database_store_completed: 10.630s
+response_prepared: 10.630s
+Pre-TTS total time: 10.630s
+
+
+=== Request at 2025-04-19T12:04:58.484659 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 10.560s
+response_formatting_completed: 10.593s
+database_store_completed: 10.630s
+response_prepared: 10.630s
+tts_processing_completed: 49.102s
+Total time: 49.102s
+
+
+=== Request at 2025-04-19T12:09:12.497949 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.072s
+question_processed: 0.072s
+chatbot_response_received: 4.312s
+response_formatting_completed: 4.346s
+database_store_completed: 4.384s
+response_prepared: 4.384s
+Pre-TTS total time: 4.384s
+
+
+=== Request at 2025-04-19T12:09:24.938366 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.072s
+question_processed: 0.072s
+chatbot_response_received: 4.312s
+response_formatting_completed: 4.346s
+database_store_completed: 4.384s
+response_prepared: 4.384s
+tts_processing_completed: 16.825s
+Total time: 16.825s
+
+
+=== Request at 2025-04-19T12:16:45.928250 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 4.355s
+response_formatting_completed: 4.377s
+database_store_completed: 4.416s
+response_prepared: 4.416s
+Pre-TTS total time: 4.417s
+
+
+=== Request at 2025-04-19T12:16:57.743232 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 4.355s
+response_formatting_completed: 4.377s
+database_store_completed: 4.416s
+response_prepared: 4.416s
+tts_processing_completed: 16.231s
+Total time: 16.231s
+
+
+=== Request at 2025-04-19T12:17:11.163859 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.025s
+question_processed: 0.025s
+chatbot_response_received: 8.000s
+response_formatting_completed: 8.024s
+database_store_completed: 8.047s
+response_prepared: 8.047s
+Pre-TTS total time: 8.047s
+
+
+=== Request at 2025-04-19T12:17:33.073521 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.025s
+question_processed: 0.025s
+chatbot_response_received: 8.000s
+response_formatting_completed: 8.024s
+database_store_completed: 8.047s
+response_prepared: 8.047s
+tts_processing_completed: 29.957s
+Total time: 29.957s
+
+
+=== Request at 2025-04-19T12:28:53.387995 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.026s
+question_processed: 0.026s
+chatbot_response_received: 4.360s
+response_formatting_completed: 4.384s
+database_store_completed: 4.408s
+response_prepared: 4.408s
+Pre-TTS total time: 4.408s
+
+
+=== Request at 2025-04-19T12:29:15.670066 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.026s
+question_processed: 0.026s
+chatbot_response_received: 4.360s
+response_formatting_completed: 4.384s
+database_store_completed: 4.408s
+response_prepared: 4.408s
+tts_processing_completed: 26.690s
+Total time: 26.690s
+
+
+=== Request at 2025-04-19T12:32:18.999075 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.024s
+question_processed: 0.024s
+chatbot_response_received: 10.776s
+response_formatting_completed: 10.803s
+database_store_completed: 10.834s
+response_prepared: 10.834s
+Pre-TTS total time: 10.834s
+
+
+=== Request at 2025-04-19T12:32:37.102595 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.024s
+question_processed: 0.024s
+chatbot_response_received: 10.776s
+response_formatting_completed: 10.803s
+database_store_completed: 10.834s
+response_prepared: 10.834s
+tts_processing_completed: 28.937s
+Total time: 28.937s
+
+
+=== Request at 2025-04-19T12:32:58.920801 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 8.671s
+response_formatting_completed: 8.692s
+database_store_completed: 8.716s
+response_prepared: 8.716s
+Pre-TTS total time: 8.717s
+
+
+=== Request at 2025-04-19T12:33:29.087738 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.031s
+question_processed: 0.031s
+chatbot_response_received: 8.671s
+response_formatting_completed: 8.692s
+database_store_completed: 8.716s
+response_prepared: 8.716s
+tts_processing_completed: 38.883s
+Total time: 38.883s
+
+
+=== Request at 2025-04-19T12:33:49.925690 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.070s
+question_processed: 0.070s
+chatbot_response_received: 12.752s
+response_formatting_completed: 12.778s
+database_store_completed: 12.811s
+response_prepared: 12.811s
+Pre-TTS total time: 12.811s
+
+
+=== Request at 2025-04-19T12:33:51.972004 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 9.957s
+response_formatting_completed: 9.985s
+database_store_completed: 10.016s
+response_prepared: 10.016s
+Pre-TTS total time: 10.017s
+
+
+=== Request at 2025-04-19T12:34:17.455547 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.070s
+question_processed: 0.070s
+chatbot_response_received: 12.752s
+response_formatting_completed: 12.778s
+database_store_completed: 12.811s
+response_prepared: 12.811s
+tts_processing_completed: 40.341s
+Total time: 40.341s
+
+
+=== Request at 2025-04-19T12:34:35.287867 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 9.957s
+response_formatting_completed: 9.985s
+database_store_completed: 10.016s
+response_prepared: 10.016s
+tts_processing_completed: 53.332s
+Total time: 53.332s
+
+
+=== Request at 2025-04-19T12:46:09.080028 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 8.315s
+response_formatting_completed: 8.335s
+database_store_completed: 8.357s
+response_prepared: 8.357s
+Pre-TTS total time: 8.357s
+
+
+=== Request at 2025-04-19T12:46:33.174954 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.021s
+question_processed: 0.021s
+chatbot_response_received: 8.315s
+response_formatting_completed: 8.335s
+database_store_completed: 8.357s
+response_prepared: 8.357s
+tts_processing_completed: 32.452s
+Total time: 32.452s
+
+
+=== Request at 2025-04-19T12:51:55.787249 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 8.170s
+response_formatting_completed: 8.187s
+database_store_completed: 8.210s
+response_prepared: 8.210s
+Pre-TTS total time: 8.210s
+
+
+=== Request at 2025-04-19T12:52:19.219385 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 8.170s
+response_formatting_completed: 8.187s
+database_store_completed: 8.210s
+response_prepared: 8.210s
+tts_processing_completed: 31.642s
+Total time: 31.642s
+
+
+=== Request at 2025-04-21T04:28:52.531914 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.234s
+question_processed: 0.234s
+chatbot_response_received: 11.127s
+response_formatting_completed: 11.159s
+database_store_completed: 11.193s
+response_prepared: 11.193s
+Pre-TTS total time: 11.193s
+
+
+=== Request at 2025-04-21T04:29:10.882903 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.234s
+question_processed: 0.234s
+chatbot_response_received: 11.127s
+response_formatting_completed: 11.159s
+database_store_completed: 11.193s
+response_prepared: 11.193s
+tts_processing_completed: 29.544s
+Total time: 29.544s
+
+
+=== Request at 2025-04-21T04:31:47.812655 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 7.096s
+response_formatting_completed: 7.127s
+database_store_completed: 7.173s
+response_prepared: 7.174s
+Pre-TTS total time: 7.174s
+
+
+=== Request at 2025-04-21T04:32:13.074265 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 7.096s
+response_formatting_completed: 7.127s
+database_store_completed: 7.173s
+response_prepared: 7.174s
+tts_processing_completed: 32.435s
+Total time: 32.435s
+
+
+=== Request at 2025-04-21T04:32:36.682475 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.071s
+question_processed: 0.071s
+chatbot_response_received: 4.475s
+response_formatting_completed: 4.508s
+database_store_completed: 4.543s
+response_prepared: 4.543s
+Pre-TTS total time: 4.543s
+
+
+=== Request at 2025-04-21T04:32:50.217518 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.071s
+question_processed: 0.071s
+chatbot_response_received: 4.475s
+response_formatting_completed: 4.508s
+database_store_completed: 4.543s
+response_prepared: 4.543s
+tts_processing_completed: 18.078s
+Total time: 18.078s
+
+
+=== Request at 2025-04-21T04:34:35.582005 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.049s
+question_processed: 0.049s
+chatbot_response_received: 8.030s
+response_formatting_completed: 8.078s
+database_store_completed: 8.163s
+response_prepared: 8.163s
+Pre-TTS total time: 8.163s
+
+
+=== Request at 2025-04-21T04:35:00.717838 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.033s
+question_processed: 0.033s
+chatbot_response_received: 4.601s
+response_formatting_completed: 4.633s
+database_store_completed: 4.667s
+response_prepared: 4.667s
+Pre-TTS total time: 4.667s
+
+
+=== Request at 2025-04-21T04:35:05.708973 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.049s
+question_processed: 0.049s
+chatbot_response_received: 8.030s
+response_formatting_completed: 8.078s
+database_store_completed: 8.163s
+response_prepared: 8.163s
+tts_processing_completed: 38.290s
+Total time: 38.290s
+
+
+=== Request at 2025-04-21T04:35:23.248243 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.033s
+question_processed: 0.033s
+chatbot_response_received: 4.601s
+response_formatting_completed: 4.633s
+database_store_completed: 4.667s
+response_prepared: 4.667s
+tts_processing_completed: 27.197s
+Total time: 27.197s
+
+
+=== Request at 2025-04-21T06:05:08.378347 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.077s
+question_processed: 0.077s
+chatbot_response_received: 4.347s
+response_formatting_completed: 4.383s
+database_store_completed: 4.418s
+response_prepared: 4.418s
+Pre-TTS total time: 4.418s
+
+
+=== Request at 2025-04-21T06:05:22.141034 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.077s
+question_processed: 0.077s
+chatbot_response_received: 4.347s
+response_formatting_completed: 4.383s
+database_store_completed: 4.418s
+response_prepared: 4.418s
+tts_processing_completed: 18.181s
+Total time: 18.181s
+
+
+=== Request at 2025-04-21T06:05:45.623861 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 4.347s
+response_formatting_completed: 4.382s
+database_store_completed: 4.417s
+response_prepared: 4.417s
+Pre-TTS total time: 4.417s
+
+
+=== Request at 2025-04-21T06:05:59.871370 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.035s
+question_processed: 0.035s
+chatbot_response_received: 4.347s
+response_formatting_completed: 4.382s
+database_store_completed: 4.417s
+response_prepared: 4.417s
+tts_processing_completed: 18.665s
+Total time: 18.665s
+
+
+=== Request at 2025-04-21T06:10:50.661951 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 4.076s
+response_formatting_completed: 4.106s
+database_store_completed: 4.140s
+response_prepared: 4.140s
+Pre-TTS total time: 4.140s
+
+
+=== Request at 2025-04-21T06:11:05.852236 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 4.076s
+response_formatting_completed: 4.106s
+database_store_completed: 4.140s
+response_prepared: 4.140s
+tts_processing_completed: 19.330s
+Total time: 19.330s
+
+
+=== Request at 2025-04-21T06:56:32.389866 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.073s
+question_processed: 0.073s
+chatbot_response_received: 8.243s
+response_formatting_completed: 8.269s
+database_store_completed: 8.298s
+response_prepared: 8.298s
+Pre-TTS total time: 8.298s
+
+
+=== Request at 2025-04-21T06:56:56.711203 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.073s
+question_processed: 0.073s
+chatbot_response_received: 8.243s
+response_formatting_completed: 8.269s
+database_store_completed: 8.298s
+response_prepared: 8.298s
+tts_processing_completed: 32.619s
+Total time: 32.619s
+
+
+=== Request at 2025-04-21T07:14:43.382731 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 7.940s
+response_formatting_completed: 7.967s
+database_store_completed: 7.996s
+response_prepared: 7.996s
+Pre-TTS total time: 7.996s
+
+
+=== Request at 2025-04-21T07:15:08.809470 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.030s
+question_processed: 0.030s
+chatbot_response_received: 7.940s
+response_formatting_completed: 7.967s
+database_store_completed: 7.996s
+response_prepared: 7.996s
+tts_processing_completed: 33.423s
+Total time: 33.423s
+
+
+=== Request at 2025-04-21T07:15:32.754292 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.065s
+question_processed: 0.065s
+chatbot_response_received: 10.879s
+response_formatting_completed: 10.905s
+database_store_completed: 10.933s
+response_prepared: 10.933s
+Pre-TTS total time: 10.933s
+
+
+=== Request at 2025-04-21T07:15:50.420946 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.065s
+question_processed: 0.065s
+chatbot_response_received: 10.879s
+response_formatting_completed: 10.905s
+database_store_completed: 10.933s
+response_prepared: 10.933s
+tts_processing_completed: 28.599s
+Total time: 28.599s
+
+
+=== Request at 2025-04-21T07:16:04.027249 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 4.303s
+response_formatting_completed: 4.328s
+database_store_completed: 4.356s
+response_prepared: 4.356s
+Pre-TTS total time: 4.356s
+
+
+=== Request at 2025-04-21T07:16:17.330967 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 4.303s
+response_formatting_completed: 4.328s
+database_store_completed: 4.356s
+response_prepared: 4.356s
+tts_processing_completed: 17.659s
+Total time: 17.659s
+
+
+=== Request at 2025-04-21T07:34:17.929999 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.038s
+question_processed: 0.038s
+chatbot_response_received: 4.348s
+response_formatting_completed: 4.384s
+database_store_completed: 4.422s
+response_prepared: 4.422s
+Pre-TTS total time: 4.422s
+
+
+=== Request at 2025-04-21T07:34:30.170427 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.038s
+question_processed: 0.038s
+chatbot_response_received: 4.348s
+response_formatting_completed: 4.384s
+database_store_completed: 4.422s
+response_prepared: 4.422s
+tts_processing_completed: 16.663s
+Total time: 16.663s
+
+
+=== Request at 2025-04-21T07:35:40.223842 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.037s
+question_processed: 0.037s
+translation_to_english_completed: 0.571s
+chatbot_response_received: 9.326s
+translation_to_original_completed: 12.971s
+response_formatting_completed: 13.009s
+database_store_completed: 13.047s
+response_prepared: 13.047s
+Pre-TTS total time: 13.047s
+
+
+=== Request at 2025-04-21T07:36:19.114535 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.037s
+question_processed: 0.037s
+translation_to_english_completed: 0.571s
+chatbot_response_received: 9.326s
+translation_to_original_completed: 12.971s
+response_formatting_completed: 13.009s
+database_store_completed: 13.047s
+response_prepared: 13.047s
+tts_processing_completed: 51.937s
+Total time: 51.937s
+
+
+=== Request at 2025-04-21T08:39:44.828487 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.101s
+question_processed: 0.101s
+chatbot_response_received: 10.649s
+response_formatting_completed: 10.683s
+database_store_completed: 10.721s
+response_prepared: 10.721s
+Pre-TTS total time: 10.721s
+
+
+=== Request at 2025-04-21T08:40:05.742470 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.101s
+question_processed: 0.101s
+chatbot_response_received: 10.649s
+response_formatting_completed: 10.683s
+database_store_completed: 10.721s
+response_prepared: 10.721s
+tts_processing_completed: 31.635s
+Total time: 31.635s
+
+
+=== Request at 2025-04-21T08:40:43.153024 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.033s
+question_processed: 0.033s
+translation_to_english_completed: 0.457s
+chatbot_response_received: 10.943s
+translation_to_original_completed: 13.840s
+response_formatting_completed: 13.877s
+database_store_completed: 13.917s
+response_prepared: 13.917s
+Pre-TTS total time: 13.917s
+
+
+=== Request at 2025-04-21T08:41:12.844071 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.033s
+question_processed: 0.033s
+translation_to_english_completed: 0.457s
+chatbot_response_received: 10.943s
+translation_to_original_completed: 13.840s
+response_formatting_completed: 13.877s
+database_store_completed: 13.917s
+response_prepared: 13.917s
+tts_processing_completed: 43.608s
+Total time: 43.608s
+
+
+=== Request at 2025-04-21T09:05:53.259660 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.088s
+asr_completed: 7.368s
+question_processed: 7.368s
+chatbot_response_received: 7.385s
+response_formatting_completed: 7.425s
+database_store_completed: 7.471s
+response_prepared: 7.471s
+Pre-TTS total time: 7.471s
+
+
+=== Request at 2025-04-21T09:05:55.522133 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.088s
+asr_completed: 7.368s
+question_processed: 7.368s
+chatbot_response_received: 7.385s
+response_formatting_completed: 7.425s
+database_store_completed: 7.471s
+response_prepared: 7.471s
+tts_processing_completed: 9.733s
+Total time: 9.733s
+
+
+=== Request at 2025-04-21T09:25:42.719559 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.088s
+asr_completed: 5.218s
+question_processed: 5.218s
+chatbot_response_received: 12.988s
+response_formatting_completed: 13.036s
+database_store_completed: 13.083s
+response_prepared: 13.083s
+Pre-TTS total time: 13.083s
+
+
+=== Request at 2025-04-21T09:26:14.986935 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.088s
+asr_completed: 5.218s
+question_processed: 5.218s
+chatbot_response_received: 12.988s
+response_formatting_completed: 13.036s
+database_store_completed: 13.083s
+response_prepared: 13.083s
+tts_processing_completed: 45.351s
+Total time: 45.351s
+
+
+=== Request at 2025-04-21T09:36:05.201959 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.083s
+question_processed: 0.083s
+chatbot_response_received: 7.367s
+response_formatting_completed: 7.410s
+database_store_completed: 7.456s
+response_prepared: 7.456s
+Pre-TTS total time: 7.456s
+
+
+=== Request at 2025-04-21T09:36:30.068296 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.083s
+question_processed: 0.083s
+chatbot_response_received: 7.367s
+response_formatting_completed: 7.410s
+database_store_completed: 7.456s
+response_prepared: 7.456s
+tts_processing_completed: 32.323s
+Total time: 32.323s
+
+
+=== Request at 2025-04-21T09:36:57.886962 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.042s
+question_processed: 0.042s
+chatbot_response_received: 10.606s
+response_formatting_completed: 10.653s
+database_store_completed: 10.701s
+response_prepared: 10.701s
+Pre-TTS total time: 10.701s
+
+
+=== Request at 2025-04-21T09:37:17.309979 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.042s
+question_processed: 0.042s
+chatbot_response_received: 10.606s
+response_formatting_completed: 10.653s
+database_store_completed: 10.701s
+response_prepared: 10.701s
+tts_processing_completed: 30.124s
+Total time: 30.124s
+
+
+=== Request at 2025-04-21T09:39:12.383029 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.083s
+question_processed: 0.083s
+translation_to_english_completed: 2.365s
+chatbot_response_received: 9.795s
+translation_to_original_completed: 12.620s
+response_formatting_completed: 12.663s
+database_store_completed: 12.710s
+response_prepared: 12.710s
+Pre-TTS total time: 12.710s
+
+
+=== Request at 2025-04-21T09:39:46.774949 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.083s
+question_processed: 0.083s
+translation_to_english_completed: 2.365s
+chatbot_response_received: 9.795s
+translation_to_original_completed: 12.620s
+response_formatting_completed: 12.663s
+database_store_completed: 12.710s
+response_prepared: 12.710s
+tts_processing_completed: 47.102s
+Total time: 47.102s
+
+
+=== Request at 2025-04-21T12:07:17.625919 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.083s
+question_processed: 0.083s
+chatbot_response_received: 4.321s
+response_formatting_completed: 4.367s
+database_store_completed: 4.415s
+response_prepared: 4.415s
+Pre-TTS total time: 4.415s
+
+
+=== Request at 2025-04-21T12:07:29.756347 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.083s
+question_processed: 0.083s
+chatbot_response_received: 4.321s
+response_formatting_completed: 4.367s
+database_store_completed: 4.415s
+response_prepared: 4.415s
+tts_processing_completed: 16.545s
+Total time: 16.545s
+
+
+=== Request at 2025-04-21T12:11:09.752448 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 6.859s
+response_formatting_completed: 6.906s
+database_store_completed: 6.961s
+response_prepared: 6.961s
+Pre-TTS total time: 6.961s
+
+
+=== Request at 2025-04-21T12:11:33.909496 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 6.859s
+response_formatting_completed: 6.906s
+database_store_completed: 6.961s
+response_prepared: 6.961s
+tts_processing_completed: 31.118s
+Total time: 31.118s
+
+
+=== Request at 2025-04-21T12:12:48.124047 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.049s
+question_processed: 0.049s
+chatbot_response_received: 8.747s
+response_formatting_completed: 8.789s
+database_store_completed: 8.831s
+response_prepared: 8.831s
+Pre-TTS total time: 8.831s
+
+
+=== Request at 2025-04-21T12:13:13.361663 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.049s
+question_processed: 0.049s
+chatbot_response_received: 8.747s
+response_formatting_completed: 8.789s
+database_store_completed: 8.831s
+response_prepared: 8.831s
+tts_processing_completed: 34.068s
+Total time: 34.068s
+
+
+=== Request at 2025-04-21T12:33:54.221891 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.089s
+question_processed: 0.089s
+chatbot_response_received: 6.593s
+response_formatting_completed: 6.638s
+database_store_completed: 6.689s
+response_prepared: 6.689s
+Pre-TTS total time: 6.689s
+
+
+=== Request at 2025-04-21T12:34:12.128477 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.089s
+question_processed: 0.089s
+chatbot_response_received: 6.593s
+response_formatting_completed: 6.638s
+database_store_completed: 6.689s
+response_prepared: 6.689s
+tts_processing_completed: 24.596s
+Total time: 24.596s
+
+
+=== Request at 2025-04-21T12:35:51.071673 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.053s
+question_processed: 0.053s
+chatbot_response_received: 10.792s
+response_formatting_completed: 10.843s
+database_store_completed: 10.932s
+response_prepared: 10.932s
+Pre-TTS total time: 10.932s
+
+
+=== Request at 2025-04-21T12:36:11.192617 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.053s
+question_processed: 0.053s
+chatbot_response_received: 10.792s
+response_formatting_completed: 10.843s
+database_store_completed: 10.932s
+response_prepared: 10.932s
+tts_processing_completed: 31.053s
+Total time: 31.053s
+
+
+=== Request at 2025-04-21T12:59:04.590334 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.042s
+question_processed: 0.042s
+translation_to_english_completed: 0.506s
+chatbot_response_received: 7.547s
+translation_to_original_completed: 10.893s
+response_formatting_completed: 10.928s
+database_store_completed: 10.973s
+response_prepared: 10.973s
+Pre-TTS total time: 10.973s
+
+
+=== Request at 2025-04-21T12:59:30.877121 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.042s
+question_processed: 0.042s
+translation_to_english_completed: 0.506s
+chatbot_response_received: 7.547s
+translation_to_original_completed: 10.893s
+response_formatting_completed: 10.928s
+database_store_completed: 10.973s
+response_prepared: 10.973s
+tts_processing_completed: 37.260s
+Total time: 37.260s
+
+
+=== Request at 2025-04-21T13:05:31.019894 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.084s
+question_processed: 0.084s
+translation_to_english_completed: 0.647s
+chatbot_response_received: 7.779s
+translation_to_original_completed: 9.872s
+response_formatting_completed: 9.915s
+database_store_completed: 9.958s
+response_prepared: 9.958s
+Pre-TTS total time: 9.958s
+
+
+=== Request at 2025-04-21T13:05:57.782668 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.084s
+question_processed: 0.084s
+translation_to_english_completed: 0.647s
+chatbot_response_received: 7.779s
+translation_to_original_completed: 9.872s
+response_formatting_completed: 9.915s
+database_store_completed: 9.958s
+response_prepared: 9.958s
+tts_processing_completed: 36.721s
+Total time: 36.721s
+
+
+=== Request at 2025-04-21T13:25:23.232987 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.159s
+question_processed: 0.159s
+chatbot_response_received: 7.894s
+response_formatting_completed: 7.933s
+database_store_completed: 8.014s
+response_prepared: 8.014s
+Pre-TTS total time: 8.014s
+
+
+=== Request at 2025-04-21T13:25:49.391108 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.159s
+question_processed: 0.159s
+chatbot_response_received: 7.894s
+response_formatting_completed: 7.933s
+database_store_completed: 8.014s
+response_prepared: 8.014s
+tts_processing_completed: 34.172s
+Total time: 34.172s
+
+
+=== Request at 2025-04-21T13:26:10.824792 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 8.031s
+response_formatting_completed: 8.062s
+database_store_completed: 8.110s
+response_prepared: 8.110s
+Pre-TTS total time: 8.110s
+
+
+=== Request at 2025-04-21T13:26:35.991143 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 8.031s
+response_formatting_completed: 8.062s
+database_store_completed: 8.110s
+response_prepared: 8.110s
+tts_processing_completed: 33.276s
+Total time: 33.276s
+
+
+=== Request at 2025-04-21T13:27:33.323959 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 3.499s
+response_formatting_completed: 3.543s
+database_store_completed: 3.629s
+response_prepared: 3.629s
+Pre-TTS total time: 3.629s
+
+
+=== Request at 2025-04-21T13:27:44.660403 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 3.499s
+response_formatting_completed: 3.543s
+database_store_completed: 3.629s
+response_prepared: 3.629s
+tts_processing_completed: 14.965s
+Total time: 14.965s
+
+
+=== Request at 2025-04-21T13:28:51.428639 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.046s
+question_processed: 0.046s
+chatbot_response_received: 1.615s
+response_formatting_completed: 1.659s
+database_store_completed: 1.707s
+response_prepared: 1.707s
+Pre-TTS total time: 1.707s
+
+
+=== Request at 2025-04-21T13:28:56.036202 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.046s
+question_processed: 0.046s
+chatbot_response_received: 1.615s
+response_formatting_completed: 1.659s
+database_store_completed: 1.707s
+response_prepared: 1.707s
+tts_processing_completed: 6.315s
+Total time: 6.315s
+
+
+=== Request at 2025-04-21T15:42:09.774923 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 0.085s
+response_formatting_completed: 0.125s
+database_store_completed: 0.167s
+response_prepared: 0.167s
+Pre-TTS total time: 0.167s
+
+
+=== Request at 2025-04-21T15:42:11.009463 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 0.085s
+response_formatting_completed: 0.125s
+database_store_completed: 0.167s
+response_prepared: 0.167s
+tts_processing_completed: 1.401s
+Total time: 1.401s
+
+
+=== Request at 2025-04-21T15:42:39.242283 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 0.049s
+response_formatting_completed: 0.079s
+database_store_completed: 0.113s
+response_prepared: 0.113s
+Pre-TTS total time: 0.113s
+
+
+=== Request at 2025-04-21T15:42:41.242201 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 0.049s
+response_formatting_completed: 0.079s
+database_store_completed: 0.113s
+response_prepared: 0.113s
+tts_processing_completed: 2.113s
+Total time: 2.113s
+
+
+=== Request at 2025-04-21T15:42:46.464178 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 0.052s
+response_formatting_completed: 0.086s
+database_store_completed: 0.123s
+response_prepared: 0.123s
+Pre-TTS total time: 0.123s
+
+
+=== Request at 2025-04-21T15:42:48.673684 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 0.052s
+response_formatting_completed: 0.086s
+database_store_completed: 0.123s
+response_prepared: 0.123s
+tts_processing_completed: 2.332s
+Total time: 2.332s
+
+
+=== Request at 2025-04-21T15:42:55.130456 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.038s
+question_processed: 0.038s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.087s
+database_store_completed: 0.126s
+response_prepared: 0.126s
+Pre-TTS total time: 0.126s
+
+
+=== Request at 2025-04-21T15:42:57.371464 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.038s
+question_processed: 0.038s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.087s
+database_store_completed: 0.126s
+response_prepared: 0.126s
+tts_processing_completed: 2.367s
+Total time: 2.367s
+
+
+=== Request at 2025-04-21T15:43:05.883598 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.088s
+database_store_completed: 0.132s
+response_prepared: 0.132s
+Pre-TTS total time: 0.133s
+
+
+=== Request at 2025-04-21T15:43:07.950090 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.036s
+question_processed: 0.036s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.088s
+database_store_completed: 0.132s
+response_prepared: 0.132s
+tts_processing_completed: 2.199s
+Total time: 2.199s
+
+
+=== Request at 2025-04-21T15:43:20.592126 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 0.048s
+response_formatting_completed: 0.084s
+database_store_completed: 0.120s
+response_prepared: 0.120s
+Pre-TTS total time: 0.121s
+
+
+=== Request at 2025-04-21T15:43:22.691810 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.034s
+question_processed: 0.034s
+chatbot_response_received: 0.048s
+response_formatting_completed: 0.084s
+database_store_completed: 0.120s
+response_prepared: 0.120s
+tts_processing_completed: 2.220s
+Total time: 2.220s
+
+
+=== Request at 2025-04-21T15:43:41.747038 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 6.566s
+response_formatting_completed: 6.596s
+database_store_completed: 6.629s
+response_prepared: 6.629s
+Pre-TTS total time: 6.629s
+
+
+=== Request at 2025-04-21T15:44:06.186980 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.032s
+question_processed: 0.032s
+chatbot_response_received: 6.566s
+response_formatting_completed: 6.596s
+database_store_completed: 6.629s
+response_prepared: 6.629s
+tts_processing_completed: 31.069s
+Total time: 31.069s
+
+
+=== Request at 2025-04-21T17:27:37.919190 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.038s
+question_processed: 0.038s
+chatbot_response_received: 0.055s
+response_formatting_completed: 0.089s
+database_store_completed: 0.127s
+response_prepared: 0.127s
+Pre-TTS total time: 0.127s
+
+
+=== Request at 2025-04-21T17:27:44.002385 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.045s
+question_processed: 0.045s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.084s
+database_store_completed: 0.121s
+response_prepared: 0.121s
+Pre-TTS total time: 0.121s
+
+
+=== Request at 2025-04-21T17:27:47.231598 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.037s
+question_processed: 0.037s
+chatbot_response_received: 0.042s
+response_formatting_completed: 0.082s
+database_store_completed: 0.122s
+response_prepared: 0.122s
+Pre-TTS total time: 0.122s
+
+
+=== Request at 2025-04-21T17:27:51.815454 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.043s
+question_processed: 0.043s
+chatbot_response_received: 0.058s
+response_formatting_completed: 0.101s
+database_store_completed: 0.147s
+response_prepared: 0.147s
+Pre-TTS total time: 0.147s
+
+
+=== Request at 2025-04-21T17:28:02.418006 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.038s
+question_processed: 0.038s
+chatbot_response_received: 0.055s
+response_formatting_completed: 0.089s
+database_store_completed: 0.127s
+response_prepared: 0.127s
+tts_processing_completed: 24.625s
+Total time: 24.625s
+
+
+=== Request at 2025-04-21T17:28:03.852081 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.045s
+question_processed: 0.045s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.084s
+database_store_completed: 0.121s
+response_prepared: 0.121s
+tts_processing_completed: 19.971s
+Total time: 19.971s
+
+
+=== Request at 2025-04-21T17:28:04.988403 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.037s
+question_processed: 0.037s
+chatbot_response_received: 0.042s
+response_formatting_completed: 0.082s
+database_store_completed: 0.122s
+response_prepared: 0.122s
+tts_processing_completed: 17.878s
+Total time: 17.878s
+
+
+=== Request at 2025-04-21T17:28:07.037546 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.043s
+question_processed: 0.043s
+chatbot_response_received: 0.058s
+response_formatting_completed: 0.101s
+database_store_completed: 0.147s
+response_prepared: 0.147s
+tts_processing_completed: 15.369s
+Total time: 15.369s
+
+
+=== Request at 2025-04-21T17:28:14.458983 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 3.417s
+response_formatting_completed: 3.447s
+database_store_completed: 3.478s
+response_prepared: 3.478s
+Pre-TTS total time: 3.478s
+
+
+=== Request at 2025-04-21T17:28:24.195665 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 3.417s
+response_formatting_completed: 3.447s
+database_store_completed: 3.478s
+response_prepared: 3.478s
+tts_processing_completed: 13.215s
+Total time: 13.215s
+
+
+=== Request at 2025-04-21T17:28:42.554123 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.080s
+database_store_completed: 0.109s
+response_prepared: 0.109s
+Pre-TTS total time: 0.109s
+
+
+=== Request at 2025-04-21T17:28:44.653986 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 0.050s
+response_formatting_completed: 0.080s
+database_store_completed: 0.109s
+response_prepared: 0.109s
+tts_processing_completed: 2.208s
+Total time: 2.208s
+
+
+=== Request at 2025-04-21T17:28:57.305612 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.039s
+question_processed: 0.039s
+chatbot_response_received: 0.053s
+response_formatting_completed: 0.087s
+database_store_completed: 0.117s
+response_prepared: 0.117s
+Pre-TTS total time: 0.117s
+
+
+=== Request at 2025-04-21T17:28:59.440649 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.039s
+question_processed: 0.039s
+chatbot_response_received: 0.053s
+response_formatting_completed: 0.087s
+database_store_completed: 0.117s
+response_prepared: 0.117s
+tts_processing_completed: 2.252s
+Total time: 2.252s
+
+
+=== Request at 2025-04-21T17:29:11.610749 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 0.042s
+response_formatting_completed: 0.068s
+database_store_completed: 0.098s
+response_prepared: 0.098s
+Pre-TTS total time: 0.098s
+
+
+=== Request at 2025-04-21T17:29:13.591409 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 0.042s
+response_formatting_completed: 0.068s
+database_store_completed: 0.098s
+response_prepared: 0.098s
+tts_processing_completed: 2.079s
+Total time: 2.079s
+
+
+=== Request at 2025-04-21T17:29:18.807821 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 0.041s
+response_formatting_completed: 0.067s
+database_store_completed: 0.096s
+response_prepared: 0.096s
+Pre-TTS total time: 0.096s
+
+
+=== Request at 2025-04-21T17:29:20.888349 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 0.041s
+response_formatting_completed: 0.067s
+database_store_completed: 0.096s
+response_prepared: 0.096s
+tts_processing_completed: 2.177s
+Total time: 2.177s
+
+
+=== Request at 2025-04-21T17:29:24.575586 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 0.042s
+response_formatting_completed: 0.069s
+database_store_completed: 0.099s
+response_prepared: 0.099s
+Pre-TTS total time: 0.099s
+
+
+=== Request at 2025-04-21T17:29:26.748954 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 0.042s
+response_formatting_completed: 0.069s
+database_store_completed: 0.099s
+response_prepared: 0.099s
+tts_processing_completed: 2.273s
+Total time: 2.273s
+
+
+=== Request at 2025-04-21T17:29:37.252838 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 0.043s
+response_formatting_completed: 0.073s
+database_store_completed: 0.111s
+response_prepared: 0.111s
+Pre-TTS total time: 0.111s
+
+
+=== Request at 2025-04-21T17:29:39.411265 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 0.043s
+response_formatting_completed: 0.073s
+database_store_completed: 0.111s
+response_prepared: 0.111s
+tts_processing_completed: 2.270s
+Total time: 2.270s
+
+
+=== Request at 2025-04-22T06:20:43.146849 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.039s
+question_processed: 0.039s
+chatbot_response_received: 7.392s
+response_formatting_completed: 7.430s
+database_store_completed: 7.472s
+response_prepared: 7.472s
+Pre-TTS total time: 7.472s
+
+
+=== Request at 2025-04-22T06:21:07.049259 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.039s
+question_processed: 0.039s
+chatbot_response_received: 7.392s
+response_formatting_completed: 7.430s
+database_store_completed: 7.472s
+response_prepared: 7.472s
+tts_processing_completed: 31.374s
+Total time: 31.374s
+
+
+=== Request at 2025-04-22T08:49:46.731719 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.389s
+question_processed: 0.389s
+chatbot_response_received: 11.064s
+response_formatting_completed: 11.123s
+database_store_completed: 11.250s
+response_prepared: 11.250s
+Pre-TTS total time: 11.250s
+
+
+=== Request at 2025-04-22T08:50:28.692834 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.389s
+question_processed: 0.389s
+chatbot_response_received: 11.064s
+response_formatting_completed: 11.123s
+database_store_completed: 11.250s
+response_prepared: 11.250s
+tts_processing_completed: 53.211s
+Total time: 53.211s
+
+
+=== Request at 2025-04-22T08:51:25.355740 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.062s
+question_processed: 0.062s
+chatbot_response_received: 4.123s
+response_formatting_completed: 4.182s
+database_store_completed: 4.244s
+response_prepared: 4.244s
+Pre-TTS total time: 4.244s
+
+
+=== Request at 2025-04-22T08:51:43.461695 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.062s
+question_processed: 0.062s
+chatbot_response_received: 4.123s
+response_formatting_completed: 4.182s
+database_store_completed: 4.244s
+response_prepared: 4.244s
+tts_processing_completed: 22.350s
+Total time: 22.350s
+
+
+=== Request at 2025-04-22T08:52:23.410175 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.056s
+question_processed: 0.056s
+chatbot_response_received: 6.349s
+response_formatting_completed: 6.407s
+database_store_completed: 6.466s
+response_prepared: 6.467s
+Pre-TTS total time: 6.467s
+
+
+=== Request at 2025-04-22T08:52:48.087413 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.056s
+question_processed: 0.056s
+chatbot_response_received: 6.349s
+response_formatting_completed: 6.407s
+database_store_completed: 6.466s
+response_prepared: 6.467s
+tts_processing_completed: 31.144s
+Total time: 31.144s
+
+
+=== Request at 2025-04-22T09:00:12.133293 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.057s
+question_processed: 0.057s
+chatbot_response_received: 4.102s
+response_formatting_completed: 4.160s
+database_store_completed: 4.219s
+response_prepared: 4.219s
+Pre-TTS total time: 4.219s
+
+
+=== Request at 2025-04-22T09:00:25.033107 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.057s
+question_processed: 0.057s
+chatbot_response_received: 4.102s
+response_formatting_completed: 4.160s
+database_store_completed: 4.219s
+response_prepared: 4.219s
+tts_processing_completed: 17.119s
+Total time: 17.119s
+
+
+=== Request at 2025-04-22T09:10:39.746817 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.044s
+asr_completed: 4.246s
+question_processed: 4.246s
+chatbot_response_received: 4.270s
+response_formatting_completed: 4.317s
+database_store_completed: 4.360s
+response_prepared: 4.360s
+Pre-TTS total time: 4.360s
+
+
+=== Request at 2025-04-22T09:10:42.025285 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.044s
+asr_completed: 4.246s
+question_processed: 4.246s
+chatbot_response_received: 4.270s
+response_formatting_completed: 4.317s
+database_store_completed: 4.360s
+response_prepared: 4.360s
+tts_processing_completed: 6.638s
+Total time: 6.638s
+
+
+=== Request at 2025-04-23T05:53:18.494709 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.108s
+question_processed: 0.108s
+chatbot_response_received: 10.883s
+response_formatting_completed: 10.919s
+database_store_completed: 10.972s
+response_prepared: 10.972s
+Pre-TTS total time: 10.972s
+
+
+=== Request at 2025-04-23T05:53:35.486955 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.108s
+question_processed: 0.108s
+chatbot_response_received: 10.883s
+response_formatting_completed: 10.919s
+database_store_completed: 10.972s
+response_prepared: 10.972s
+tts_processing_completed: 27.964s
+Total time: 27.964s
+
+
+=== Request at 2025-04-23T07:47:27.469445 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.034s
+asr_completed: 3.663s
+question_processed: 3.663s
+chatbot_response_received: 8.048s
+response_formatting_completed: 8.089s
+database_store_completed: 8.131s
+response_prepared: 8.131s
+Pre-TTS total time: 8.131s
+
+
+=== Request at 2025-04-23T07:47:43.860637 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.034s
+asr_completed: 3.663s
+question_processed: 3.663s
+chatbot_response_received: 8.048s
+response_formatting_completed: 8.089s
+database_store_completed: 8.131s
+response_prepared: 8.131s
+tts_processing_completed: 24.522s
+Total time: 24.522s
+
+
+=== Request at 2025-04-23T07:55:13.871925 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.035s
+asr_completed: 1.139s
+question_processed: 1.139s
+chatbot_response_received: 6.468s
+response_formatting_completed: 6.498s
+database_store_completed: 6.531s
+response_prepared: 6.531s
+Pre-TTS total time: 6.531s
+
+
+=== Request at 2025-04-23T07:55:28.766022 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.035s
+asr_completed: 1.139s
+question_processed: 1.139s
+chatbot_response_received: 6.468s
+response_formatting_completed: 6.498s
+database_store_completed: 6.531s
+response_prepared: 6.531s
+tts_processing_completed: 21.425s
+Total time: 21.425s
+
+
+=== Request at 2025-04-23T07:55:45.081432 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.037s
+asr_completed: 1.013s
+question_processed: 1.013s
+translation_to_english_completed: 1.409s
+chatbot_response_received: 7.780s
+translation_to_original_completed: 10.751s
+response_formatting_completed: 10.783s
+database_store_completed: 10.817s
+response_prepared: 10.817s
+Pre-TTS total time: 10.817s
+
+
+=== Request at 2025-04-23T07:56:30.302068 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.031s
+asr_completed: 1.101s
+question_processed: 1.101s
+chatbot_response_received: 8.053s
+response_formatting_completed: 8.084s
+database_store_completed: 8.132s
+response_prepared: 8.132s
+Pre-TTS total time: 8.132s
+
+
+=== Request at 2025-04-23T07:56:54.375442 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.031s
+asr_completed: 1.101s
+question_processed: 1.101s
+chatbot_response_received: 8.053s
+response_formatting_completed: 8.084s
+database_store_completed: 8.132s
+response_prepared: 8.132s
+tts_processing_completed: 32.205s
+Total time: 32.205s
+
+
+=== Request at 2025-04-23T09:36:26.392356 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.069s
+question_processed: 0.069s
+chatbot_response_received: 3.035s
+response_formatting_completed: 3.061s
+database_store_completed: 3.091s
+response_prepared: 3.091s
+Pre-TTS total time: 3.091s
+
+
+=== Request at 2025-04-23T09:36:34.816406 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.069s
+question_processed: 0.069s
+chatbot_response_received: 3.035s
+response_formatting_completed: 3.061s
+database_store_completed: 3.091s
+response_prepared: 3.091s
+tts_processing_completed: 11.515s
+Total time: 11.515s
+
+
+=== Request at 2025-04-23T09:37:05.759383 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 2.596s
+response_formatting_completed: 2.622s
+database_store_completed: 2.652s
+response_prepared: 2.652s
+Pre-TTS total time: 2.652s
+
+
+=== Request at 2025-04-23T09:37:13.278357 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.027s
+question_processed: 0.027s
+chatbot_response_received: 2.596s
+response_formatting_completed: 2.622s
+database_store_completed: 2.652s
+response_prepared: 2.652s
+tts_processing_completed: 10.171s
+Total time: 10.171s
+
+
+=== Request at 2025-04-23T09:37:41.166499 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.026s
+question_processed: 0.026s
+chatbot_response_received: 7.713s
+response_formatting_completed: 7.739s
+database_store_completed: 7.773s
+response_prepared: 7.773s
+Pre-TTS total time: 7.773s
+
+
+=== Request at 2025-04-23T09:38:11.059453 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.026s
+question_processed: 0.026s
+chatbot_response_received: 7.713s
+response_formatting_completed: 7.739s
+database_store_completed: 7.773s
+response_prepared: 7.773s
+tts_processing_completed: 37.666s
+Total time: 37.666s
+
+
+=== Request at 2025-04-23T09:38:35.911929 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 9.721s
+response_formatting_completed: 9.747s
+database_store_completed: 9.776s
+response_prepared: 9.777s
+Pre-TTS total time: 9.777s
+
+
+=== Request at 2025-04-23T09:39:10.970948 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.080s
+question_processed: 0.080s
+chatbot_response_received: 9.721s
+response_formatting_completed: 9.747s
+database_store_completed: 9.776s
+response_prepared: 9.777s
+tts_processing_completed: 44.835s
+Total time: 44.835s
+
+
+=== Request at 2025-04-23T09:45:24.659084 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.071s
+question_processed: 0.071s
+chatbot_response_received: 4.229s
+response_formatting_completed: 4.259s
+database_store_completed: 4.289s
+response_prepared: 4.289s
+Pre-TTS total time: 4.289s
+
+
+=== Request at 2025-04-23T09:45:36.709506 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.071s
+question_processed: 0.071s
+chatbot_response_received: 4.229s
+response_formatting_completed: 4.259s
+database_store_completed: 4.289s
+response_prepared: 4.289s
+tts_processing_completed: 16.339s
+Total time: 16.339s
+
+
+=== Request at 2025-04-24T06:45:30.595159 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.066s
+question_processed: 0.066s
+chatbot_response_received: 4.279s
+response_formatting_completed: 4.295s
+database_store_completed: 4.313s
+response_prepared: 4.313s
+Pre-TTS total time: 4.314s
+
+
+=== Request at 2025-04-24T06:45:42.756316 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.066s
+question_processed: 0.066s
+chatbot_response_received: 4.279s
+response_formatting_completed: 4.295s
+database_store_completed: 4.313s
+response_prepared: 4.313s
+tts_processing_completed: 16.475s
+Total time: 16.475s
+
+
+=== Request at 2025-04-24T06:48:56.882869 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.054s
+question_processed: 0.054s
+chatbot_response_received: 8.988s
+response_formatting_completed: 9.003s
+database_store_completed: 9.023s
+response_prepared: 9.023s
+Pre-TTS total time: 9.024s
+
+
+=== Request at 2025-04-24T06:49:28.573123 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.054s
+question_processed: 0.054s
+chatbot_response_received: 8.988s
+response_formatting_completed: 9.003s
+database_store_completed: 9.023s
+response_prepared: 9.023s
+tts_processing_completed: 40.714s
+Total time: 40.714s
+
+
+=== Request at 2025-04-24T07:23:37.418543 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.055s
+question_processed: 0.055s
+chatbot_response_received: 8.897s
+response_formatting_completed: 8.918s
+database_store_completed: 8.942s
+response_prepared: 8.942s
+Pre-TTS total time: 8.942s
+
+
+=== Request at 2025-04-24T07:24:09.919082 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.055s
+question_processed: 0.055s
+chatbot_response_received: 8.897s
+response_formatting_completed: 8.918s
+database_store_completed: 8.942s
+response_prepared: 8.942s
+tts_processing_completed: 41.443s
+Total time: 41.443s
+
+
+=== Request at 2025-04-24T07:24:36.216100 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 9.798s
+response_formatting_completed: 9.829s
+database_store_completed: 9.859s
+response_prepared: 9.859s
+Pre-TTS total time: 9.860s
+
+
+=== Request at 2025-04-24T07:25:12.455241 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.020s
+question_processed: 0.020s
+chatbot_response_received: 8.935s
+response_formatting_completed: 8.958s
+database_store_completed: 8.984s
+response_prepared: 8.984s
+Pre-TTS total time: 8.984s
+
+
+=== Request at 2025-04-24T07:25:13.226364 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.028s
+question_processed: 0.028s
+chatbot_response_received: 9.798s
+response_formatting_completed: 9.829s
+database_store_completed: 9.859s
+response_prepared: 9.859s
+tts_processing_completed: 46.870s
+Total time: 46.870s
+
+
+=== Request at 2025-04-24T07:25:45.985027 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.020s
+question_processed: 0.020s
+chatbot_response_received: 8.935s
+response_formatting_completed: 8.958s
+database_store_completed: 8.984s
+response_prepared: 8.984s
+tts_processing_completed: 42.513s
+Total time: 42.513s
+
+
+=== Request at 2025-04-24T07:28:03.496133 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.056s
+question_processed: 0.056s
+chatbot_response_received: 10.026s
+response_formatting_completed: 10.041s
+database_store_completed: 10.061s
+response_prepared: 10.061s
+Pre-TTS total time: 10.061s
+
+
+=== Request at 2025-04-24T07:28:41.438160 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.056s
+question_processed: 0.056s
+chatbot_response_received: 10.026s
+response_formatting_completed: 10.041s
+database_store_completed: 10.061s
+response_prepared: 10.061s
+tts_processing_completed: 48.003s
+Total time: 48.003s
+
+
+=== Request at 2025-04-24T07:35:02.003307 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.054s
+question_processed: 0.054s
+chatbot_response_received: 7.551s
+response_formatting_completed: 7.566s
+database_store_completed: 7.584s
+response_prepared: 7.584s
+Pre-TTS total time: 7.584s
+
+
+=== Request at 2025-04-24T07:35:29.622018 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.054s
+question_processed: 0.054s
+chatbot_response_received: 7.551s
+response_formatting_completed: 7.566s
+database_store_completed: 7.584s
+response_prepared: 7.584s
+tts_processing_completed: 35.202s
+Total time: 35.202s
+
+
+=== Request at 2025-04-24T07:37:12.873572 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.017s
+question_processed: 0.017s
+translation_to_english_completed: 0.164s
+chatbot_response_received: 7.615s
+translation_to_original_completed: 18.610s
+response_formatting_completed: 18.628s
+database_store_completed: 18.646s
+response_prepared: 18.646s
+Pre-TTS total time: 18.646s
+
+
+=== Request at 2025-04-24T07:37:38.902948 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.017s
+question_processed: 0.017s
+translation_to_english_completed: 0.164s
+chatbot_response_received: 7.615s
+translation_to_original_completed: 18.610s
+response_formatting_completed: 18.628s
+database_store_completed: 18.646s
+response_prepared: 18.646s
+tts_processing_completed: 44.676s
+Total time: 44.676s
+
+
+=== Request at 2025-04-24T07:38:58.257205 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.022s
+question_processed: 0.022s
+chatbot_response_received: 4.060s
+response_formatting_completed: 4.075s
+database_store_completed: 4.093s
+response_prepared: 4.093s
+Pre-TTS total time: 4.093s
+
+
+=== Request at 2025-04-24T07:39:10.369477 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.022s
+question_processed: 0.022s
+chatbot_response_received: 4.060s
+response_formatting_completed: 4.075s
+database_store_completed: 4.093s
+response_prepared: 4.093s
+tts_processing_completed: 16.206s
+Total time: 16.206s
+
+
+=== Request at 2025-04-24T07:44:26.010471 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.057s
+question_processed: 0.057s
+chatbot_response_received: 4.452s
+response_formatting_completed: 4.467s
+database_store_completed: 4.489s
+response_prepared: 4.489s
+Pre-TTS total time: 4.490s
+
+
+=== Request at 2025-04-24T07:44:38.838240 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.057s
+question_processed: 0.057s
+chatbot_response_received: 4.452s
+response_formatting_completed: 4.467s
+database_store_completed: 4.489s
+response_prepared: 4.489s
+tts_processing_completed: 17.317s
+Total time: 17.317s
+
+
+=== Request at 2025-04-24T09:05:32.740144 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.104s
+question_processed: 0.104s
+chatbot_response_received: 4.395s
+response_formatting_completed: 4.452s
+database_store_completed: 4.508s
+response_prepared: 4.508s
+Pre-TTS total time: 4.508s
+
+
+=== Request at 2025-04-24T09:05:46.366601 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.104s
+question_processed: 0.104s
+chatbot_response_received: 4.395s
+response_formatting_completed: 4.452s
+database_store_completed: 4.508s
+response_prepared: 4.508s
+tts_processing_completed: 18.134s
+Total time: 18.134s
+
+
+=== Request at 2025-04-24T09:06:22.748367 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.043s
+question_processed: 0.043s
+chatbot_response_received: 4.196s
+response_formatting_completed: 4.287s
+database_store_completed: 4.394s
+response_prepared: 4.395s
+Pre-TTS total time: 4.395s
+
+
+=== Request at 2025-04-24T09:06:37.834960 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.043s
+question_processed: 0.043s
+chatbot_response_received: 4.196s
+response_formatting_completed: 4.287s
+database_store_completed: 4.394s
+response_prepared: 4.395s
+tts_processing_completed: 19.481s
+Total time: 19.481s
+
+
+=== Request at 2025-04-24T09:06:58.829533 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.117s
+asr_completed: 5.310s
+question_processed: 5.310s
+chatbot_response_received: 5.332s
+response_formatting_completed: 5.641s
+database_store_completed: 5.683s
+response_prepared: 5.683s
+Pre-TTS total time: 5.683s
+
+
+=== Request at 2025-04-24T09:07:02.165574 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+existing_conversation_retrieved: 0.117s
+asr_completed: 5.310s
+question_processed: 5.310s
+chatbot_response_received: 5.332s
+response_formatting_completed: 5.641s
+database_store_completed: 5.683s
+response_prepared: 5.683s
+tts_processing_completed: 9.019s
+Total time: 9.019s
+
+
+=== Request at 2025-04-24T09:08:04.655157 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.368s
+question_processed: 0.368s
+chatbot_response_received: 4.523s
+response_formatting_completed: 4.587s
+database_store_completed: 4.648s
+response_prepared: 4.648s
+Pre-TTS total time: 4.648s
+
+
+=== Request at 2025-04-24T09:08:17.587023 ===
+request_received: 0.000s
+authentication_complete: 0.000s
+conversation_created: 0.368s
+question_processed: 0.368s
+chatbot_response_received: 4.523s
+response_formatting_completed: 4.587s
+database_store_completed: 4.648s
+response_prepared: 4.648s
+tts_processing_completed: 17.580s
+Total time: 17.580s
+
+
+=== Request at 2025-05-01T15:56:49.357690 ===
+request_received: 0.000s
+authentication_complete: 0.002s
+conversation_created: 0.095s
+question_processed: 0.095s
+chatbot_response_received: 9.295s
+database_store_completed: 9.415s
+response_prepared: 9.415s
+Pre-TTS total time: 9.415s
